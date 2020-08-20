@@ -307,7 +307,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
   .nav-item .nav-link.active,
-  .nav-item .nav-link:hover {
+  .nav-item .nav-link:focus {
     color: var(--primary-color);
   }
 
